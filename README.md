@@ -6,16 +6,16 @@ Decision-support system powered by Large Language Models (LLMs) to transform lar
  Tool calling to trigger optimization solvers and automation scripts
  Designed to scale from prototype to reusable framework
 # Architecture
- Operational Data (CSV / DB / Logs)
-          ↓
+ Operational Data (CSV / DB / Logs) 
+          ->
  Data Processing & Aggregation (Python, Pandas)
-          ↓
+          ->
      LLM Planner (ChatGPT / Gemini / LLaMA)
-          ↓
+          ->
   Structured Decisions (JSON / Actions)
-          ↓
+          ->
  Tool Executor (Optimization / Simulation / Scripts)
-          ↓
+          ->
      Execution Results & Feedback Loop
 # LLM Agent Design
 ## Responsibilities
