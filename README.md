@@ -44,3 +44,8 @@ LLMs provide:
 - Natural-language interfaces
 - Rapid adaptability
 This project demonstrates how to safely and effectively integrate LLMs into real operational workflows.
+# Future Work
+- Multi-agent extensions for decentralized operations
+- Reinforcement learning for long-term policy optimization
+- Human feedback integration (RLHF-style loop)
+- Deployment as a reusable internal tool
